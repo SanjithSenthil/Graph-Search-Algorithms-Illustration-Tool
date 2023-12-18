@@ -1,4 +1,6 @@
 # Graph Search Algorithms Illustration Tool
+
+### About
 - An illustration tool that offers real time animations, live statistical insights, and explanations of 5+ popular graph search algorithms inlcuding breadth first search, depth first search, dijkstra, a star search, and greeedy best first search.
 - Includes a UI for guiding users through simulation setup and comprehensive explanation of each algorithm along with its time and space complexities.
 - Featues a dynamic and interactive UI for animation of the algorithms, enabling users to place nodes, set wall configurations, select preferred algorithms, and gain insights into node exploration and time progression.
